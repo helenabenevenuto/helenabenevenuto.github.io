@@ -10,7 +10,10 @@ header:
 
 ## Resumo
 
-Profissional do setor de qualidade com sólido conhecimento em integrar ferramentas digitais e linguagens de programação, como Power BI e Python, na resolução de problemas da indústria química. Minha jornada profissional é marcada por uma ampla experiência em gestão da qualidade, qualidade assegurada e controle de qualidade na Bayer, atuando em: resolução de problemas; investigação de não conformidades; gestão de indicadores; avaliação de fornecedores; redução de custos da não qualidade; condução de auditorias internas e externas; análises físico-químicas, instrumentais e microbiológicas. Nessas funções, utilizei ferramentas de qualidade, como: Diagrama de Ishikawa; Diagrama de Pareto; 5 Porquês; 5W2H; PDCA. Além de ferramentas digitais para otimizações de processos, como: VBA; Power BI; Power Automate; Power Apps. Antes disso, fui bolsista de iniciação científica no IFRJ e desenvolvi softwares em Python aplicado ao aprendizado de química. Nessa função, utilizei bibliotecas associadas, como: Pandas, NumPy, SymPy, Matplotlib e Plotly, além de utilizar Git e testes automatizados. Também sou escritora convidada do site Ciência Programada, em que escrevi artigos aplicando programação a processos químicos. Graduanda em Química Industrial pela UFRJ e Técnica em Química pelo IFRJ. Além de possuir certificação em Ciência de Dados pela IBM.
+Sou profissional do setor de qualidade com sólido conhecimento em integrar ferramentas digitais e linguagens de programação, como VBA, Power BI e Python, na resolução de problemas da indústria química. 
+Minha jornada profissional é marcada por uma ampla experiência em gestão da qualidade, qualidade assegurada e controle de qualidade na Bayer, atuando em: resolução de problemas; investigação de não conformidades; gestão de indicadores; avaliação de fornecedores; redução de custos da não qualidade; condução de auditorias internas e externas; análises físico-químicas, instrumentais e microbiológicas. 
+Antes disso, fui bolsista de iniciação científica no IFRJ e desenvolvi softwares em Python aplicado ao aprendizado de química. 
+Graduanda em Química Industrial pela UFRJ e Técnica em Química pelo IFRJ. Possuo certificação em Ciência de Dados pela IBM.
 
 ## Experiência Profissional
 
@@ -61,14 +64,14 @@ Projeto “Programação em Python Aplicada a Química” desenvolvendo software
 ### Certificações
 
 - 2024
-  - Trilha de Gestão Lean Manufacturing pela Firjan
+  - Trilha de Gestão Lean Manufacturing pela Firjan ([Exibir certificado](https://drive.google.com/file/d/1DeMf5Ymu37S6U30sD__VM4ePfsPSKfD1/view))
     - Skills: Gestão de projetos; Análise de processos; Melhoria contínua; Resolução de problemas; Análise de causa raiz (RCA); Indicadores-chave de desempenho (KPIs); Sistemas de gestão.
 
 - 2023
-  - Certificação em Ciência de Dados pela IBM/Coursera
+  - Certificação em Ciência de Dados pela IBM/Coursera ([Exibir certificado](https://www.coursera.org/account/accomplishments/professional-cert/TEE33T5X847Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof))
     - Skills: Python; Pandas; NumPy; SymPy; Matplotlib; Plotly; SQL; Git; Jupyter notebooks; Google Colab; Análise de dados.
 
-  - Formação de Auditor Interno ISO9001:2015/ ISO14001:2015/ ISO45001:2018 pela ABS Group
+  - Formação de Auditor Interno ISO9001:2015/ ISO14001:2015/ ISO45001:2018 pela ABS Group ([Exibir certificado](https://drive.google.com/file/d/19D8w2L35EZ7dw6wwORJ5ZGP-y5n_oj1s/view))
     - Skills: Programação e Gestão de Auditorias; Auditorias de fornecedores; Auditoria interna; Sistemas de gestão; Indicadores-chave de desempenho (KPIs).
 
 ### Diplomas
