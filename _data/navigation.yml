@@ -5,5 +5,5 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /curriculo/
