@@ -64,14 +64,14 @@ Projeto “Programação em Python Aplicada a Química” desenvolvendo software
 ### Certificações
 
 - 2024
-  - Trilha de Gestão Lean Manufacturing pela Firjan ([Exibir certificado](https://drive.google.com/file/d/1DeMf5Ymu37S6U30sD__VM4ePfsPSKfD1/view))
+  - Trilha de Gestão Lean Manufacturing pela Firjan ([Exibir certificado](https://drive.google.com/file/d/1DeMf5Ymu37S6U30sD__VM4ePfsPSKfD1/view){:target="_blank"})
     - Skills: Gestão de projetos; Análise de processos; Melhoria contínua; Resolução de problemas; Análise de causa raiz (RCA); Indicadores-chave de desempenho (KPIs); Sistemas de gestão.
 
 - 2023
-  - Certificação em Ciência de Dados pela IBM/Coursera ([Exibir certificado](https://www.coursera.org/account/accomplishments/professional-cert/TEE33T5X847Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof))
+  - Certificação em Ciência de Dados pela IBM/Coursera ([Exibir certificado](https://www.coursera.org/account/accomplishments/professional-cert/TEE33T5X847Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof){:target="_blank"})
     - Skills: Python; Pandas; NumPy; SymPy; Matplotlib; Plotly; SQL; Git; Jupyter notebooks; Google Colab; Análise de dados.
 
-  - Formação de Auditor Interno ISO9001:2015/ ISO14001:2015/ ISO45001:2018 pela ABS Group ([Exibir certificado](https://drive.google.com/file/d/19D8w2L35EZ7dw6wwORJ5ZGP-y5n_oj1s/view))
+  - Formação de Auditor Interno ISO9001:2015/ ISO14001:2015/ ISO45001:2018 pela ABS Group ([Exibir certificado](https://drive.google.com/file/d/19D8w2L35EZ7dw6wwORJ5ZGP-y5n_oj1s/view){:target="_blank"})
     - Skills: Programação e Gestão de Auditorias; Auditorias de fornecedores; Auditoria interna; Sistemas de gestão; Indicadores-chave de desempenho (KPIs).
 
 ### Diplomas
