@@ -7,12 +7,12 @@ header:
   overlay_filter: 0.60 # same as adding an opacity of 0.5 to a black background
 ---
 
-Sou profissional do setor de qualidade com sólido conhecimento em integrar ferramentas digitais e linguagens de programação, como VBA, Power BI e Python, na resolução de problemas da indústria química. 
+Sou uma profissional com sólido conhecimento em qualidade e análise de dados.
 
-Minha jornada profissional é marcada por uma ampla experiência em gestão da qualidade, qualidade assegurada e controle de qualidade na Bayer, atuando em: resolução de problemas; investigação de não conformidades; gestão de indicadores; avaliação de fornecedores; redução de custos da não qualidade; condução de auditorias internas e externas; análises físico-químicas, instrumentais e microbiológicas. 
+Para mais detalhes, veja meu [curriculum vitae](curriculo.md). Abaixo um breve resumo.
 
-Antes disso, fui bolsista de iniciação científica no IFRJ e desenvolvi softwares em Python aplicado ao aprendizado de química. 
+Minha jornada profissional é marcada por uma ampla experiência em gestão da qualidade, qualidade assegurada e controle de qualidade na Bayer, atuando em: tratativas de não conformidades; gestão de KPIs; gestão de fornecedores; condução de auditorias; redução de custos da não qualidade; análises físico-químicas, instrumentais e microbiológicas; controle de equipamentos; elaboração de procedimentos.
 
-Graduanda em Química Industrial pela UFRJ e Técnica em Química pelo IFRJ. Possuo certificação em Ciência de Dados pela IBM.
+Tenho experiência em integrar linguagens de programação e ferramentas digitais na resolução de problemas da indústria. Desenvolvi habilidades em: Python, SQL, Power BI, DAX, VBA e ETL, com aplicação prática em projetos que automatizam processos, aumentam receitas e melhoram a tomada de decisão assertiva.
 
-Para mais detalhes, veja meu [curriculum vitae](curriculo.md).
+Graduanda em Química Industrial pela UFRJ e Técnica em Química pelo IFRJ. Também possuo certificação em Ciência de Dados pela IBM.
