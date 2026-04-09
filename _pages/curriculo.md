@@ -1,7 +1,6 @@
 ---
 permalink: /curriculo/
 title: "Curriculum Vitae"
-excerpt: "Resumo de minhas experiências"
 toc: true
 header:
   overlay_image: /assets/images/header.jpg
@@ -24,8 +23,7 @@ SAP.
 
 ## Experiência Profissional
 
-### 2026: Engenheira de Dados e Software na Johnson & Johnson (via NECTO
-Systems)
+### 2026: Engenheira de Dados e Software na Johnson & Johnson (via NECTO Systems)
 
 - Liderança End-to-End de uma solução de Business Intelligence, desde o
   levantamento de requisitos com stakeholders até a implantação,
@@ -117,29 +115,46 @@ características:
 - Apelo visual com Matplotlib e Plotly;
 - Análise e processamento de dados com Pandas e NumPy;
 - Desenvolvimento com boas práticas, utilizando Git e testes automatizados.
+Uma versão interativa deste projeto pode ser vista [clicando aqui](https://phdiagrams.herokuapp.com/){:target="_blank"}.
 
 ## Formação Acadêmica
-
-### Certificações
-
-- 2024
-  - Trilha de Gestão Lean Manufacturing pela Firjan
-    ([Exibir certificado](https://drive.google.com/file/d/1DeMf5Ymu37S6U30sD__VM4ePfsPSKfD1/view){:target="_blank"})
-    - Skills: Gestão de projetos; Análise de processos; Melhoria contínua;
-      Resolução de problemas; Análise de causa raiz (RCA); Indicadores-chave
-      de desempenho (KPIs); Sistemas de gestão.
-- 2023
-  - Certificação em Ciência de Dados pela IBM/Coursera
-    ([Exibir certificado](https://www.coursera.org/account/accomplishments/professional-cert/TEE33T5X847Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof){:target="_blank"})
-    - Skills: Python; Pandas; NumPy; SymPy; Matplotlib; Plotly; SQL; Git;
-      Jupyter notebooks; Google Colab; Análise de dados.
-  - Formação de Auditor Interno ISO9001:2015/ ISO14001:2015/ ISO45001:2018
-    pela ABS Group ([Exibir certificado](https://drive.google.com/file/d/19D8w2L35EZ7dw6wwORJ5ZGP-y5n_oj1s/view){:target="_blank"})
-    - Skills: Programação e Gestão de Auditorias; Auditorias de
-      fornecedores; Auditoria interna; Sistemas de gestão; Indicadores-chave
-      de desempenho (KPIs).
 
 ### Diplomas
 
 - 2019 - 2026: Graduação em Química Industrial, UFRJ
+
 - 2018 - 2021: Técnico em Química, IFRJ
+
+### Certificações
+
+- 2024: Trilha de Gestão Lean Manufacturing pela Firjan
+  ([Exibir certificado](https://drive.google.com/file/d/1DeMf5Ymu37S6U30sD__VM4ePfsPSKfD1/view){:target="_blank"})
+  - Skills: Fundamentos de Lean Manufacturing e melhoria contínua; 
+  Identificação e redução de desperdícios nos processos; Análise e 
+  otimização de fluxos produtivos; Aumento de eficiência operacional e 
+  produtividade; Padronização de processos e foco em qualidade; Resolução de 
+  problemas e análise de causas; Melhoria de desempenho; Cultura de excelência 
+  operacional; Visão sistêmica de processos industriais; Implementação de 
+  práticas para redução de custos e melhoria da performance operacional.
+
+- 2023: Certificação em Ciência de Dados pela IBM/Coursera
+  ([Exibir certificado](https://www.coursera.org/account/accomplishments/professional-cert/TEE33T5X847Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof){:target="_blank"})
+  - Skills: Fundamentos de Ciência de Dados e metodologia CRISP-DM; 
+  Programação em Python, R e SQL; Análise e manipulação de dados com 
+  Pandas, NumPy e SciPy; EDA, limpeza e preparação de dados; Visualização 
+  de dados e criação de dashboards com Matplotlib, Seaborn, Plotly e Dash; 
+  Machine Learning com Scikit-learn; Coleta de dados via APIs REST e web 
+  scraping; Banco de dados relacionais, consultas SQL e versionamento com 
+  Git/GitHub; Projetos práticos com dados reais e comunicação de insights 
+  para stakeholders.
+
+- 2023: Formação de Auditor Interno ISO9001:2015/ ISO14001:2015/ ISO45001:2018
+  pela ABS Group ([Exibir certificado](https://drive.google.com/file/d/19D8w2L35EZ7dw6wwORJ5ZGP-y5n_oj1s/view){:target="_blank"})
+  - Skills: Auditoria interna em Sistema de Gestão Integrada (SGI); 
+  Interpretação dos requisitos das normas ISO 9001:2015, ISO 14001:2015 e 
+  ISO 45001:2018; Diretrizes de auditoria conforme ISO 19011:2018; Análise 
+  de contexto, escopo e riscos; Gestão da informação documentada; Indicadores 
+  de desempenho, objetivos e metas; Planejamento e condução de auditorias; 
+  Elaboração de planos e relatórios de auditoria; Identificação e registro de 
+  não conformidades; Avaliação da conformidade em qualidade, meio ambiente, 
+  saúde e segurança ocupacional.
