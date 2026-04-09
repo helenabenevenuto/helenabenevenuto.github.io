@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Helena Benevenuto"
   avatar : "https://avatars.githubusercontent.com/u/79546434?v=4"
-  bio    : "Química trabalhando com Dados e Business Intelligence."
+  bio    : "Química trabalhando com Dados e Business Intelligence"
   location: "Rio de Janeiro - Brazil"
   email: "helenabsoares[at]gmail.com"
   links:
@@ -104,7 +104,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
